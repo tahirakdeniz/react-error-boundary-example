@@ -26,7 +26,7 @@ node -v
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/tahirakdeniz/react-error-boundary-example.git
 ```
 
 2. Navigate to the project directory:
